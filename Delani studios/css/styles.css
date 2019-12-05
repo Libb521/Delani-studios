@@ -1,0 +1,23 @@
+.intro{
+    background-image: url("/home/moringaschool/Desktop/My-projects/Week3/Week3-IP/Delani studios/img/h_img.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+    padding-bottom: 150px;
+    padding-top: 320px;
+}
+.intro h1{
+    text-align: center;
+    color: white; 
+}
+.intro p{
+    color: white;
+    font-size: 15px;
+}
+.intro img1{
+    padding-bottom: 50px;
+}
+.intro img2{
+    padding-top: 200;
+}
