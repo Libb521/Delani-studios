@@ -46,10 +46,9 @@
 .serv p{
     font-weight: bold;
 }
-.second{
-    text-align: center;
-    display: flex;
-    flex-direction: row;
+.row{
+    columns: 3;
+    align-self: auto;
 }
 .des{
     text-align: center;
@@ -64,3 +63,6 @@
 .prod p{
     display: none;
 } 
+.h2{
+    text-align: center;
+}
