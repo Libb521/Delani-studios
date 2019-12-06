@@ -4,8 +4,8 @@
     background-size: cover;
     /* background-attachment: fixed; */
     text-align: center;
-    padding-bottom: 100px;
-    padding-top: 180px;
+    padding-bottom: 50px;
+    padding-top: 80px;
 }
 .intro h1{
     text-align: center;
@@ -15,12 +15,12 @@
     color: white;
     font-size: 15px;
 }
-.intro img1{
+/* .intro img1{
     padding-bottom: 50px;
 }
 .intro img2{
-    padding-top: 200;
-}
+    padding-top: 150;
+} */
 .info{
     text-align: center;
     padding-top: 50px;
@@ -45,4 +45,12 @@
 }
 .serv p{
     font-weight: bold;
+}
+.second{
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+}
+.first{
+    text-align: center;
 }
